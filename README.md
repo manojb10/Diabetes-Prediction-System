@@ -11,5 +11,8 @@ The data includes features such as:
 7. HbA1c level and
 8. Blood Glucose Level
 
-This dataset can be used to build machine learning models to predict diabetes in patients based on their medical history and demographic information. 
-This prediction system can be useful for healthcare professionals in identifying patients who may be at risk of developing diabetes and in developing personalized treatment plans. Additionally, the dataset can be used by researchers to explore the relationships between various medical and demographic factors and the likelihood of developing diabetes.
+This dataset can be used to build machine learning models to predict diabetes in patients based on their medical history and demographic information.
+
+This prediction system can be useful for healthcare professionals in identifying patients who may be at risk of developing diabetes and in developing personalized treatment plans. 
+
+Additionally, the dataset can be used by researchers to explore the relationships between various medical and demographic factors and the likelihood of developing diabetes.
